@@ -1,0 +1,4390 @@
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN CLEAR
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ CLEAR
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN CLEAR
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ CLEAR
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+
+direction:  RIGHT_____ USED
+direction:  RIGHT_DOWN USED
+direction:  DOWN______ USED
+direction:  LEFT__DOWN USED
+

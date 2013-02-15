@@ -1,0 +1,7 @@
+init initialised
+parents initialised
+time and space initialised
+image width: 1162 and height: 716
+start point = ( 1085 620 )
+background color =  0xff000000L
+pen color =  0xffffffffL

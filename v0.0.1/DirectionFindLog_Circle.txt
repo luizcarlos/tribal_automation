@@ -1,0 +1,5778 @@
+from P:( 158 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 159 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 160 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 161 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 162 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 163 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 164 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 165 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 166 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 167 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 168 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 169 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 170 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 171 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 172 ,  16 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 173 ,  16 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 174 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 175 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 176 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 177 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 178 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 179 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 180 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 181 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 182 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 183 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 184 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 185 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 186 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 187 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 188 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 189 ,  17 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 190 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 191 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 192 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 193 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 194 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 195 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 196 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 197 ,  18 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 198 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 199 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 200 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 201 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 202 ,  19 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 203 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 204 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 205 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 206 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 207 ,  20 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 208 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 209 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 210 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 211 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 212 ,  21 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 213 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 214 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 215 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 216 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 217 ,  22 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 218 ,  23 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 219 ,  23 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 220 ,  23 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 221 ,  23 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 222 ,  24 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 223 ,  24 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 224 ,  24 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 225 ,  25 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 226 ,  25 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 227 ,  25 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 228 ,  26 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 229 ,  26 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 230 ,  26 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 231 ,  27 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 232 ,  27 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 233 ,  27 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 234 ,  28 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 235 ,  28 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 236 ,  28 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 237 ,  29 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 238 ,  29 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 239 ,  29 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 240 ,  30 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 241 ,  30 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 242 ,  30 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 243 ,  31 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 244 ,  31 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 245 ,  32 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 246 ,  32 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 247 ,  33 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 248 ,  34 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 249 ,  34 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 250 ,  35 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 251 ,  35 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 252 ,  36 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 253 ,  36 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 254 ,  37 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 255 ,  37 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 256 ,  38 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 257 ,  38 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 258 ,  39 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 259 ,  39 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 260 ,  40 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 261 ,  40 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 262 ,  41 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 263 ,  41 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 264 ,  42 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 265 ,  43 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 266 ,  43 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 267 ,  44 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 268 ,  45 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 269 ,  45 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 270 ,  46 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 271 ,  47 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 272 ,  47 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 273 ,  48 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 274 ,  49 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 275 ,  50 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 276 ,  51 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 277 ,  52 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 278 ,  52 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 279 ,  53 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 280 ,  54 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 281 ,  55 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 282 ,  56 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 283 ,  57 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 284 ,  58 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 285 ,  59 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 286 ,  60 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 286 ,  61 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 287 ,  62 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 288 ,  63 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 289 ,  64 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 289 ,  65 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 290 ,  66 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 291 ,  67 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 292 ,  68 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 292 ,  69 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 293 ,  70 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 293 ,  71 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 294 ,  72 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 295 ,  73 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 295 ,  74 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 296 ,  75 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 296 ,  76 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 297 ,  77 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 297 ,  78 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 298 ,  79 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 298 ,  80 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 298 ,  81 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 299 ,  82 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 299 ,  83 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 299 ,  84 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  85 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  86 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  87 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  88 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  89 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  90 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  91 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  92 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  93 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xff000000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  94 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffff0000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  95 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  96 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  97 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  98 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  99 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  100 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  101 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  102 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  103 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  104 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  105 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 302 ,  106 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  107 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 301 ,  108 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  109 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  110 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 301 ,  111 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  112 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 300 ,  113 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  114 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 300 ,  115 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 299 ,  116 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 299 ,  117 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 299 ,  118 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 298 ,  119 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 298 ,  120 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 298 ,  121 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 297 ,  122 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 297 ,  123 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 296 ,  124 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 296 ,  125 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 295 ,  126 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 295 ,  127 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 294 ,  128 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 293 ,  129 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 293 ,  130 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 292 ,  131 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 292 ,  132 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 291 ,  133 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 290 ,  134 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 289 ,  135 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 289 ,  136 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 288 ,  137 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 287 ,  138 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 286 ,  139 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xff000000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 286 ,  140 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffff0000
+dirLi[ 7 ] =  0xffffffff
+from P:( 285 ,  141 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 284 ,  142 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 283 ,  143 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 282 ,  144 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 281 ,  145 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 280 ,  146 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 279 ,  147 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 278 ,  148 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 277 ,  148 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 276 ,  149 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 275 ,  150 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 274 ,  151 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 273 ,  152 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 272 ,  153 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 271 ,  153 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 270 ,  154 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 269 ,  155 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 268 ,  155 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 267 ,  156 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 266 ,  157 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 265 ,  157 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 264 ,  158 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 263 ,  159 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 262 ,  159 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 261 ,  160 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 260 ,  160 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 259 ,  161 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 258 ,  161 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 257 ,  162 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 256 ,  162 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 255 ,  163 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 254 ,  163 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 253 ,  164 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 252 ,  164 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 251 ,  165 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 250 ,  165 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 249 ,  166 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 248 ,  166 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 247 ,  167 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 246 ,  168 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 245 ,  168 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 244 ,  169 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 243 ,  169 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 242 ,  170 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 241 ,  170 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 240 ,  170 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 239 ,  171 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 238 ,  171 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 237 ,  171 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 236 ,  172 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 235 ,  172 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 234 ,  172 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 233 ,  173 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 232 ,  173 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 231 ,  173 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 230 ,  174 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 229 ,  174 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 228 ,  174 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 227 ,  175 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 226 ,  175 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 225 ,  175 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 224 ,  176 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 223 ,  176 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 222 ,  176 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 221 ,  177 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 220 ,  177 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 219 ,  177 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 218 ,  177 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 217 ,  178 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 216 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 215 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 214 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 213 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 212 ,  179 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 211 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 210 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 209 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 208 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 207 ,  180 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 206 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 205 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 204 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 203 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 202 ,  181 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 201 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 200 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 199 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 198 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 197 ,  182 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 196 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 195 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 194 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 193 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 192 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 191 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 190 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 189 ,  183 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 188 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 187 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 186 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 185 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 184 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 183 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 182 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 181 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 180 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 179 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 178 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 177 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 176 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 175 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 174 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xff000000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 173 ,  184 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
+from P:( 172 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 171 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 170 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 169 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 168 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 167 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 166 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 165 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 164 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 163 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 162 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 161 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 160 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 159 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 158 ,  184 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 157 ,  183 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 156 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 155 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 154 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 153 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 152 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 151 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 150 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 149 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 148 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 147 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 146 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 145 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 144 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 143 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 142 ,  183 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 141 ,  182 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 140 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 139 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 138 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 137 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 136 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 135 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 134 ,  182 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 133 ,  181 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 132 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 131 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 130 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 129 ,  181 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 128 ,  180 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 127 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 126 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 125 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 124 ,  180 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 123 ,  179 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 122 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 121 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 120 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 119 ,  179 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 118 ,  178 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 117 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 116 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 115 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 114 ,  178 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 113 ,  177 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 112 ,  177 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 111 ,  177 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 110 ,  177 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 109 ,  176 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 108 ,  176 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 107 ,  176 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 106 ,  175 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 105 ,  175 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 104 ,  175 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 103 ,  174 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 102 ,  174 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 101 ,  174 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 100 ,  173 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 99 ,  173 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 98 ,  173 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 97 ,  172 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 96 ,  172 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 95 ,  172 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 94 ,  171 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 93 ,  171 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 92 ,  171 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 91 ,  170 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 90 ,  170 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 89 ,  170 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 88 ,  169 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 87 ,  169 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 86 ,  168 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 85 ,  168 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 84 ,  167 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 83 ,  166 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 82 ,  166 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 81 ,  165 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 80 ,  165 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 79 ,  164 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 78 ,  164 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 77 ,  163 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 76 ,  163 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 75 ,  162 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 74 ,  162 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 73 ,  161 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 72 ,  161 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 71 ,  160 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 70 ,  160 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 69 ,  159 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 68 ,  159 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 67 ,  158 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 66 ,  157 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 65 ,  157 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 64 ,  156 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 63 ,  155 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 62 ,  155 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 61 ,  154 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 60 ,  153 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 59 ,  153 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 58 ,  152 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 57 ,  151 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 56 ,  150 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 55 ,  149 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 54 ,  148 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xff000000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 53 ,  148 )
+dirLi[ 0 ] =  0xffff0000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 52 ,  147 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 51 ,  146 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 50 ,  145 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 49 ,  144 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 48 ,  143 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 47 ,  142 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 46 ,  141 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 45 ,  140 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 45 ,  139 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 44 ,  138 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 43 ,  137 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 42 ,  136 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 42 ,  135 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 41 ,  134 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 40 ,  133 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 39 ,  132 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 39 ,  131 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 38 ,  130 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 38 ,  129 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 37 ,  128 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 36 ,  127 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 36 ,  126 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 35 ,  125 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 35 ,  124 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 34 ,  123 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 34 ,  122 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 33 ,  121 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 33 ,  120 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 33 ,  119 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 32 ,  118 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 32 ,  117 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 32 ,  116 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  115 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  114 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  113 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  112 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  111 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  110 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  109 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  108 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  107 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xff000000
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  106 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffff0000
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  105 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  104 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  103 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  102 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  101 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  100 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  99 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  98 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  97 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  96 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  95 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 29 ,  94 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 30 ,  93 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  92 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  91 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  90 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 30 ,  89 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 31 ,  88 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  87 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  86 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 31 ,  85 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 32 ,  84 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 32 ,  83 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 32 ,  82 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 33 ,  81 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 33 ,  80 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 33 ,  79 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 34 ,  78 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 34 ,  77 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 35 ,  76 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 35 ,  75 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 36 ,  74 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 36 ,  73 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 37 ,  72 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 38 ,  71 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 38 ,  70 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 39 ,  69 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 39 ,  68 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 40 ,  67 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 41 ,  66 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 42 ,  65 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 42 ,  64 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 43 ,  63 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 44 ,  62 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 45 ,  61 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xff000000
+dirLi[ 7 ] =  0xffffffff
+from P:( 45 ,  60 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffff0000
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 46 ,  59 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 47 ,  58 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 48 ,  57 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 49 ,  56 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 50 ,  55 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 51 ,  54 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 52 ,  53 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 53 ,  52 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 54 ,  52 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 55 ,  51 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 56 ,  50 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 57 ,  49 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 58 ,  48 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 59 ,  47 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 60 ,  47 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 61 ,  46 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 62 ,  45 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 63 ,  45 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 64 ,  44 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 65 ,  43 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 66 ,  43 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 67 ,  42 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 68 ,  41 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 69 ,  41 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 70 ,  40 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 71 ,  40 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 72 ,  39 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 73 ,  39 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 74 ,  38 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 75 ,  38 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 76 ,  37 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 77 ,  37 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 78 ,  36 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 79 ,  36 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 80 ,  35 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 81 ,  35 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 82 ,  34 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 83 ,  34 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 84 ,  33 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 85 ,  32 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 86 ,  32 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 87 ,  31 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 88 ,  31 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 89 ,  30 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 90 ,  30 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 91 ,  30 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 92 ,  29 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 93 ,  29 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 94 ,  29 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 95 ,  28 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 96 ,  28 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 97 ,  28 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 98 ,  27 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 99 ,  27 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 100 ,  27 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 101 ,  26 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 102 ,  26 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 103 ,  26 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 104 ,  25 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 105 ,  25 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 106 ,  25 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 107 ,  24 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 108 ,  24 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 109 ,  24 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 110 ,  23 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 111 ,  23 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 112 ,  23 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 113 ,  23 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 114 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 115 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 116 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 117 ,  22 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 118 ,  22 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 119 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 120 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 121 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 122 ,  21 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 123 ,  21 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 124 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 125 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 126 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 127 ,  20 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 128 ,  20 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 129 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 130 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 131 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 132 ,  19 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 133 ,  19 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 134 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 135 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 136 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 137 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 138 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 139 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 140 ,  18 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 141 ,  18 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xff000000
+from P:( 142 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffff0000
+dirLi[ 4 ] =  0xffffffff
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 143 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 144 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 145 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 146 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 147 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 148 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 149 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 150 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 151 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 152 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 153 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 154 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 155 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 156 ,  17 )
+dirLi[ 0 ] =  0xff000000
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffffffff
+from P:( 157 ,  17 )
+dirLi[ 0 ] =  0xffffffff
+dirLi[ 1 ] =  0xffffffff
+dirLi[ 2 ] =  0xffffffff
+dirLi[ 3 ] =  0xffffffff
+dirLi[ 4 ] =  0xffff0000
+dirLi[ 5 ] =  0xffffffff
+dirLi[ 6 ] =  0xffffffff
+dirLi[ 7 ] =  0xffff0000
